@@ -17,14 +17,21 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+#This is an H6 tag <h6>
+_This will italicise _
+
+**This will be bold**
 
 1. Numbered
 2. List
+3. List pt 2.
+  
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
+  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
