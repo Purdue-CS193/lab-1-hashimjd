@@ -11,20 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#Hashim's First CS 193 Lab
 
 - Bulleted
 - List
 #This is an H6 tag <h6>
 _This will italicise _
 
-**This will be bold**
+**Welcome to my website**
 
-1. Numbered
-2. List
-3. List pt 2.
+1. The sense of humour of the instructors is nice.
+2. I'm learning something that is actually helpful in real life.
   
 
 **Bold** and _Italic_ and `Code` text
